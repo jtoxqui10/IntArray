@@ -82,4 +82,4 @@ int main(int argc, char * args[]) {
     	assert(it == a.end());
 
     	cout << "All tests passed." << endl;
-
+}
